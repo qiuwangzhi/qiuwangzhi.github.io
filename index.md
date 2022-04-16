@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/qiuwangzhi/qiuwangzhi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="kXkijIjSRjB5IANWQtwZ3ZPpFyZ4wn51RBEfLGMu">
+    
+    <title>唐人阁论坛</title>
+    <meta name="keywords" content="唐人阁论坛,狼友论坛,兼职论坛,性息论坛,陪睡论坛,伴游论坛,包养论坛,桑拿论坛,夜生活论坛,休闲按摩论坛,男人需要的论坛"/>
+    <meta name="description" content="这里是唐人阁信息论坛，自由开放，免费共享，这里有世界各地洗浴桑拿、SPA按摩、KTV夜店、红灯区、站街女、楼凤兼职及体验感受的详细性息介绍，让你瞬间成为老司机"/>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <link href="/css/a.css?id=ab98cd7104c29b1d75e6" rel="stylesheet">
 
-### Markdown
+    <style>
+        body {
+            background-color: white;
+            font-size: 14px;
+        }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        p {
+            line-height: 32px;
+        }
+    </style>
+<body>
+    <div id="app">
+        <div  class="container-sm">
+            <div class="text-center">
+                <img src="/themes/trg/img/logo.png" title="唐人阁论坛" />
+                <h1>
+                    唐人阁论坛
+                </h1>
+                <p>
+                <p>这里是唐人阁信息论坛，自由开放，免费共享，老司机带你自由飞翔。</p>
+            <p>本站信息有对人体不适应内容，请酌情考虑是否访问，同时不允许将本站内容对外分享、复制、保存等操作。</p>
+                </p>
+                <p>
+                    <a href="/forum" class="btn btn-lg btn-success">进入论坛</a>
+                </p>
+				
+								<div class="alert alert-warning">
+					使用邮箱发送任意内容到 <font color="red">qiuwangzhan@gmail.com</font> 自动获取论坛最新地址
+				</div>
+				
+            </div>
 
-```markdown
-Syntax highlighted code block
+            
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+        </div>
+    </div>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    <footer class="footer">
+   
+    <div class="col-md-10 col-md-offset-1">
+        <p>本站服务于北美，日本及台湾地区 遵守当地法律，如有版权冲突，
+            <a href="qiuwangzhan@gmail.com">请联系本站咨询合作事宜</a>。
+        </p>
+    </div>        
+    <div class="col-md-10 col-md-offset-1">
+        <p>Copyright © 2017-2019 <a href="/">唐人阁论坛</a>. All rights
+            reserved.</p>
+    </div>        
+  
+</footer>
 
-### Jekyll Themes
+    <div style="display: none;">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qiuwangzhi/qiuwangzhi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div></body>
+</html>
